@@ -3,14 +3,13 @@
 
 
 # KALI INSTALLATION:
-* Install [Parallels Desktop 17](https://www.parallels.com/it/) or more (30-day free trial, ~80€ after) or any other free virtualization software (not available by March 2022). Download a [Kali ISO ARM64 “Bare Metal”](https://www.kali.org/get-kali/#kali-bare-metal) and [create a new VM from an ISO/Image file](https://kb.parallels.com/en/4729) (**not from Parallels installer, look for "Install from your source" in the previous link**) **OR** 
-* [Create a bootable USB drive](https://www.kali.org/docs/usb/live-usb-install-with-mac/) with [Kali ISO ARM64 “Bare Metal”](https://www.kali.org/get-kali/#kali-bare-metal) version, empty USB +32GB needed. Everytime you need to run Kali, [plug the USB, turn on the Mac, keep pressing the power button until you access Recovery Mode](https://support.apple.com/it-it/HT201255). Choose to boot the system with the USB **OR**
+* Install [Parallels Desktop 17](https://www.parallels.com/it/) or more (30-day free trial, ~80€ one lifetime payment) or any other free virtualization software (not available, march 2022). Download a [Kali ISO ARM64 “Bare Metal”](https://www.kali.org/get-kali/#kali-bare-metal) and [create a new VM from an ISO/Image file](https://kb.parallels.com/en/4729) (**not from Parallels installer, look for "Install from your source" in the previous link**) **OR** 
+* [Create a bootable USB drive](https://www.kali.org/docs/usb/live-usb-install-with-mac/) with [Kali ISO ARM64 “Bare Metal”](https://www.kali.org/get-kali/#kali-bare-metal) version, empty USB +32GB needed. Everytime you need to run Kali, [plug the USB, turn on the Mac, keep pressing the power button until you access Recovery Mode](https://support.apple.com/it-it/HT201255). Choose to boot the system by the USB **OR**
 * [Dual boot installation using a Kali ISO ARM64 “Bare Metal”](https://www.kali.org/docs/installation/dual-boot-kali-with-mac/) **(PRO)**
 
-###### (about the last two options) Unfortunately, by March 2022, there are no Webex Client for Linux ARM64, so you won’t be able to install Webex. Moreover, Online Webex will require codecs which are not available for LinuxARM64: you’ll need to follow the lessons using another device. 
+###### (about the last two options) Unfortunately there are no Webex Client for Linux ARM64, so you won’t be able to install Webex. Moreover, Online Webex will require codecs which are not available for LinuxARM64: you’ll need to follow the lessons using another device (march 2022). 
 
-**THERE WILL BE SHOWN ONLY LABS WHOSE CODE IS DIFFERENT. IN LABS NOT SHOWN BELOW, THERE ARE NO DIFFERENCES WITH CODE PROVIDED BY THE PROFESSOR.
-ALWAYS TRY TO RUN THE CODE PROVIDED BY THE PROFESSOR, FIRST. IF IT’S NOT WORKING, FOLLOW THIS GUIDE.**
+**LAB LESSONS WHOSE CODE IS NOT DIFFERENT, WON'T BE LISTED BELOW. ALWAYS TRY TO RUN THE CODE PROVIDED BY THE PROFESSOR, FIRST. IF IT’S NOT WORKING, FOLLOW THIS GUIDE.**
 
 ## LAB: MITM
 ```bash
