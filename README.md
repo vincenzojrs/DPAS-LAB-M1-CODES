@@ -9,7 +9,7 @@
 
 ###### (about the last two options) Unfortunately there are no Webex Client for Linux ARM64, so you won’t be able to install Webex. Moreover, Online Webex will require codecs which are not available for LinuxARM64: you’ll need to follow the lessons using another device (march 2022). 
 
-**LAB LESSONS WHOSE CODE IS NOT DIFFERENT, WON'T BE LISTED BELOW. ALWAYS TRY TO RUN THE CODE PROVIDED BY THE PROFESSOR, FIRST. IF IT’S NOT WORKING, FOLLOW THIS GUIDE.**
+**LAB LESSONS WHOSE CODE IS NOT DIFFERENT FROM KALI AMD64, WON'T BE LISTED BELOW. ALWAYS TRY TO RUN THE CODE PROVIDED BY THE PROFESSOR, FIRST. IF IT’S NOT WORKING, FOLLOW THIS GUIDE.**
 
 ## LAB: MITM
 ```bash
