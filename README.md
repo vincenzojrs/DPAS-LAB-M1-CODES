@@ -1,6 +1,3 @@
-# DPAS-LAB-M1-CODES
-scientia est potentia
-
 ###### a cura di Vincenzo Junior Striano
 # Data Privacy and Security LABS - MSc in Data Science and Management at LUISS Guido Carli, commands needed for Kali on Mac ARM64 (M1 or more)
 
@@ -29,3 +26,4 @@ $ zip nameforzipfolder.zip nameofthefiletozip -P password
 $ zip2john nameforzipfolder.zip > hash.txt
 $ john hash.txt
 ```
+###### scientia est potentia
