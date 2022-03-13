@@ -3,7 +3,7 @@
 
 
 ## KALI INSTALLATION:
-* Install [Parallels Desktop 17](https://www.parallels.com/it/) or more (30-day free trial, ~80€ one lifetime payment) or any other free virtualization software (not available, march 2022). Download a [Kali ISO ARM64 “Bare Metal”](https://www.kali.org/get-kali/#kali-bare-metal) and [create a new VM from an ISO/Image file](https://kb.parallels.com/en/4729) (**not from Parallels "Internal" Installer, look for "Install from your source" in the previous link**) **OR** 
+* Install [Parallels Desktop 17](https://www.parallels.com/it/) or more (30-day free trial, ~80€ lifetime payment) or any other free virtualization software (not available, march 2022). Download a [Kali ISO ARM64 “Bare Metal”](https://www.kali.org/get-kali/#kali-bare-metal) and [create a new VM from an ISO/Image file](https://kb.parallels.com/en/4729) (**not from Parallels "Internal" Installer, look for "Install from your source" in the previous link**) **OR** 
 * [Create a bootable USB drive](https://www.kali.org/docs/usb/live-usb-install-with-mac/) with [Kali ISO ARM64 “Bare Metal”](https://www.kali.org/get-kali/#kali-bare-metal) version, empty USB +32GB needed. Everytime you need to run Kali, [plug the USB, turn on the Mac, keep pressing the power button until you access Recovery Mode](https://support.apple.com/it-it/HT201255). Choose to boot the system by the USB **OR**
 * [Dual boot installation using a Kali ISO ARM64 “Bare Metal”](https://www.kali.org/docs/installation/dual-boot-kali-with-mac/) **(PRO)**
 
