@@ -11,7 +11,7 @@
 
 **LAB LESSONS WHOSE CODE IS NOT DIFFERENT FROM KALI AMD64, WON'T BE LISTED BELOW. ALWAYS TRY TO RUN THE CODE PROVIDED BY THE PROFESSOR, FIRST. IF IT’S NOT WORKING, FOLLOW THIS GUIDE.**
 
-## LAB: MITM
+## LAB: MITM and DOS/NMAP
 ```bash
 $ sudo apt install xterm && sudo apt install mininet && sudo apt update && sudo apt upgrade
 # run before running the code provided by the professor,
