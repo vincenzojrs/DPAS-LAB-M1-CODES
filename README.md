@@ -26,6 +26,6 @@ $ zip2john nameforzipfolder.zip > hash.txt
 $ john hash.txt
 ```
 ## LAB: DOS
-Same of MITM
+Same as MITM
 
 ###### scientia est potentia
