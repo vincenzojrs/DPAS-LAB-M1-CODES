@@ -31,16 +31,16 @@ A lot of people had troubles installing wondershaper. Those are two workarounds:
 
 I think you have two choices:
 1a.  Make sure your VM is connected to internet: open Kali, firefox and go to "www.google.com" and check if you can get there. If not, you have to connect your VM to NAT (ask professor how to do taht)
-1b. Install wondershaper via the terminal of Kali, and not via the mininet terminal. The minute terminal *IS NOT* connected to internet: you have no chance to download things from internet, from there.
+1b.  Install wondershaper via the terminal of Kali, and not via the mininet terminal. The minute terminal *IS NOT* connected to internet: you have no chance to download things from internet, from there.
 
 ```bash
 $ sudo apt-get install wondershaper
 ```
 
-1c. You should be ok
+1c.  You should be ok
 
-2a) Do 1a
-2b) Go here and follow the guide to install wondershaper https://github.com/magnific0/wondershaper . The only difference is that the command to execute wondershaper (see below). Again, follow the guide using the Kali terminal and not the mininet terminal
+2a.  Do 1a
+2b.  Go here and follow the guide to install wondershaper https://github.com/magnific0/wondershaper . The only difference is that the command to execute wondershaper (see below). Again, follow the guide using the Kali terminal and not the mininet terminal
 ```bash
 $  sudo ./wondershaper -a h3-et0 -u 100 -d 100
 ```
