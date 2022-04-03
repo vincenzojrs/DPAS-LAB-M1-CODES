@@ -1,5 +1,5 @@
 ###### a cura di Vincenzo Junior Striano
-# Data Privacy and Security LABS - MSc in Data Science and Management at LUISS Guido Carli (Rome, Italy), commands needed for Kali on Mac ARM64 (M1 or more)
+# Data Privacy and Security LABS - MSc in Data Science and Management at LUISS Guido Carli (Rome, Italy), commands differences for Kali on Mac ARM64 (M1 or more)
 
 
 ## KALI INSTALLATION:
