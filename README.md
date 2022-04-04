@@ -33,6 +33,7 @@ A lot of people had troubles installing wondershaper. Those are two workarounds:
 I think you have two choices:
 
 1a.  Make sure your VM is connected to internet: open Kali, firefox and go to "www.google.com" and check if you can get there. If not, you have to connect your VM to NAT (ask professor how to do taht)
+
 1b.  Install wondershaper via the terminal of Kali, and not via the mininet terminal. The minute terminal *IS NOT* connected to internet: you have no chance to download things from internet, from there.
 
 ```bash
