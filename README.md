@@ -27,6 +27,7 @@ $ john hash.txt
 ```
 ## LAB: DOS
 Same as MITM
+
 A lot of people had troubles installing wondershaper. Those are two workarounds:
 
 I think you have two choices:
