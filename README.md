@@ -7,6 +7,9 @@
 * [Create a bootable USB drive](https://www.kali.org/docs/usb/live-usb-install-with-mac/) with [Kali ISO ARM64 “Bare Metal”](https://www.kali.org/get-kali/#kali-bare-metal) version, empty USB +32GB needed. Everytime you need to run Kali, [plug the USB, turn on the Mac, keep pressing the power button until you access Recovery Mode](https://support.apple.com/it-it/HT201255). Choose to boot the system by the USB **OR**
 * [Dual boot installation using a Kali ISO ARM64 “Bare Metal”](https://www.kali.org/docs/installation/dual-boot-kali-with-mac/) **(PRO)**
 
+#### Updated feb 23:
+* [How to install Kali Linux on an M1 Mac for free](https://medium.com/macoclock/machow-to-install-kali-linux-on-an-m1-mac-for-free-cffdb9916050)
+
 ###### (about the last two options) Unfortunately there are no Webex Client for Linux ARM64, so you won’t be able to install Webex. Moreover, Online Webex will require codecs which are not available for LinuxARM64: you’ll need to follow the lessons using another device (march 2022). 
 
 **LAB LESSONS WHOSE CODE IS NOT DIFFERENT FROM KALI AMD64, WON'T BE LISTED BELOW. ALWAYS TRY TO RUN THE CODE PROVIDED BY THE PROFESSOR, FIRST. IF IT’S NOT WORKING, FOLLOW THIS GUIDE.**
